@@ -1,0 +1,398 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Модный айфон",
+      "description": "",
+      "price": "1.00",
+      "quantity": 1,
+      "image": "products_images/1_vkVsOfb.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Реалми Це-30",
+      "description": "",
+      "price": "35.00",
+      "quantity": 43,
+      "image": "products_images/2_A0E7yoc.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Что-то голубое",
+      "description": "",
+      "price": "23.00",
+      "quantity": 1,
+      "image": "products_images/3_vvlyuZX.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Какой-то серый смартфон",
+      "description": "",
+      "price": "45.00",
+      "quantity": 5,
+      "image": "products_images/4_SnjvO4A.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Зеленая звонилка",
+      "description": "",
+      "price": "45.00",
+      "quantity": 4,
+      "image": "products_images/5_PGeuFfY.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Розовый кирпичик",
+      "description": "",
+      "price": "55.00",
+      "quantity": 45,
+      "image": "products_images/6_FL5OsUg.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Синий много камер",
+      "description": "",
+      "price": "45.00",
+      "quantity": 5,
+      "image": "products_images/7_61RnZdZ.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Серый вид только сзади",
+      "description": "",
+      "price": "450.00",
+      "quantity": 0,
+      "image": "products_images/8_2okV59L.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Нежный розовый цвет тоже айфон",
+      "description": "",
+      "price": "4555.00",
+      "quantity": 2,
+      "image": "products_images/9_1Z4YV6E.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Камер друг над другом",
+      "description": "",
+      "price": "1.00",
+      "quantity": 4,
+      "image": "products_images/10_JUTPsrY.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Какие-то полосы и большая камера",
+      "description": "",
+      "price": "38.00",
+      "quantity": 3,
+      "image": "products_images/11_KPmv8uZ.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Красный айфон 12",
+      "description": "",
+      "price": "123.00",
+      "quantity": 4,
+      "image": "products_images/13_EbhZblM.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "Желтый спортивный",
+      "description": "",
+      "price": "688.00",
+      "quantity": 0,
+      "image": "products_images/14_oAQoGVO.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "name": "Сяоми вроде",
+      "description": "",
+      "price": "200.00",
+      "quantity": 4,
+      "image": "products_images/15.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "name": "А 51",
+      "description": "",
+      "price": "80.00",
+      "quantity": 4,
+      "image": "products_images/16_hFBlopY.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "name": "Красивая заставка",
+      "description": "",
+      "price": "290.00",
+      "quantity": 5,
+      "image": "products_images/17_oYk8nJG.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "name": "Орехи можно таким колоть",
+      "description": "",
+      "price": "78.00",
+      "quantity": 67,
+      "image": "products_images/19_yDe7pdr.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+      "name": "Непонятная модель, красный",
+      "description": "",
+      "price": "56.00",
+      "quantity": 0,
+      "image": "products_images/20_8lmUeEV.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+      "name": "Большая электронная сигарета",
+      "description": "",
+      "price": "2.00",
+      "quantity": 3,
+      "image": "products_images/в1_xJqMzqM.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+      "name": "Цветастая электронная сигарета",
+      "description": "",
+      "price": "4.00",
+      "quantity": 4,
+      "image": "products_images/в2_g9Gwhqi.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+      "name": "Длинная электронная сигарета",
+      "description": "",
+      "price": "1.00",
+      "quantity": 2,
+      "image": "products_images/в3_wfzzYb0.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 22,
+    "fields": {
+      "name": "Электронная сигарета с синим полем",
+      "description": "",
+      "price": "12.00",
+      "quantity": 2,
+      "image": "products_images/в4_Um0rqji.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+      "name": "Иван Драго",
+      "description": "",
+      "price": "23.00",
+      "quantity": 3,
+      "image": "products_images/в5.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+      "name": "Проводок в комплекте",
+      "description": "",
+      "price": "11.00",
+      "quantity": 1,
+      "image": "products_images/в7_9QlPUTK.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+      "name": "Цвет галлюцинаций",
+      "description": "",
+      "price": "7.00",
+      "quantity": 4,
+      "image": "products_images/в8_wsd9EWz.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 26,
+    "fields": {
+      "name": "Узкая зеленая",
+      "description": "",
+      "price": "34.00",
+      "quantity": 34,
+      "image": "products_images/в9_3cx5RMF.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 27,
+    "fields": {
+      "name": "Кофеварка прозрачная",
+      "description": "",
+      "price": "34.00",
+      "quantity": 4,
+      "image": "products_images/к1_3H2HCUO.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 28,
+    "fields": {
+      "name": "Кофеварка красивая",
+      "description": "",
+      "price": "34.00",
+      "quantity": 5,
+      "image": "products_images/к2_irTcJNv.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 29,
+    "fields": {
+      "name": "Это уже самовар",
+      "description": "",
+      "price": "222.00",
+      "quantity": 2,
+      "image": "products_images/к3_BvKXPri.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 30,
+    "fields": {
+      "name": "Как небольшой чайничек",
+      "description": "",
+      "price": "100.00",
+      "quantity": 4,
+      "image": "products_images/к4_9WYRbVy.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 31,
+    "fields": {
+      "name": "Идеально для офиса",
+      "description": "",
+      "price": "36.00",
+      "quantity": 5,
+      "image": "products_images/к6_Gde74GM.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 32,
+    "fields": {
+      "name": "Большая кружка поместится",
+      "description": "",
+      "price": "233.00",
+      "quantity": 2,
+      "image": "products_images/к8_ifyBukZ.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 33,
+    "fields": {
+      "name": "Маленькая и элегантная кофеварочка",
+      "description": "",
+      "price": "43.00",
+      "quantity": 2,
+      "image": "products_images/к5_qAfC3WO.jpg",
+      "category": 2
+    }
+  }
+]

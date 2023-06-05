@@ -1,0 +1,26 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Смартфоны",
+      "description": "Самые лучшие смартфоны"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Кофеварки",
+      "description": "Для настоящих ценителей хорошего кофе"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Электронные сигареты",
+      "description": "Курение вредит вашему здоровью"
+    }
+  }
+]
